@@ -72,5 +72,3 @@ The following features are tested:
   - 0.5 hours: Creating charts and documentation.  
 
 --- 
-
-Feel free to adjust if additional details are needed!
